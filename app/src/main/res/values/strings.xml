@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">StoreSafe</string>
+
+    <!-- Register -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_reentry">Re-Enter</string>
+    <string name="prompt_new_pass">New Password</string>
+    <!-- End -->
+
+    <!-- Login -->
+    <string name="Login">login</string>
+    <string name="Register">"Register"</string>
+    <string name="Forgotten">"Forgotten"</string>
+    <string name="Rememeber_Mail">"Remember Email"</string>
+    <string name="Remember_Password">"Remember Password"</string>
+    <string name="ReEnter">"Re-Enter Password"</string>
+    <string name="Home">"Go back"</string>
+    <string name="Reset">"Reset Password"</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- End -->
+
+    <!-- Generate -->
+    <string name="Generate">"Generate"</string>
+    <string name="Copy">"Copy"</string>
+    <string name="PWordLength">"Password Length:  0</string>
+    <string name="Vault">"Vault"</string>
+    <string name="SCharacters">"Special Characters"</string>
+    <string name="Characters">"Characters"</string>
+    <string name="Numbers">"Numbers"</string>
+    <string name="Letters">"Letters"</string>
+    <string name="All">"All"</string>
+    <!-- End -->
+
+
+    <!-- New Credentials -->
+    <string name="AddAccount">"New"</string>
+    <string name="Username">"Username"</string>
+    <string name="Password">"Password"</string>
+    <string name="Name">"Name"</string>
+    <string name="URL">"URL"</string>
+    <string name="Save">"Save"</string>
+    <string name="Cancel">"Cancel"</string>
+    <!-- End -->
+
+    <!-- Search -->
+    <string name="FindCreds">"Search"</string>
+    <string name="HURL">"Website URL:"</string>
+    <string name="HName">"Website Name:"</string>
+    <string name="HUsername">"Username:"</string>
+    <string name="HPass">"Password:"</string>
+    <string name="HNotes">"Notes:"</string>
+
+    <!-- Home -->
+    <string name="Signout">"Sign Out"</string>
+    <string name="AddPass">"Add Password"</string>
+
+    <!-- View Sites -->
+    <string name="viewSites">"All sites"</string>
+
+    <!-- Menu Bar -->
+    <string name="Settings_name">"Settings"</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <string name="AboutDesc">"StoreSafe, is a password storing app made using Android Studio, with API v28.\n\nDeveloped by Luke Mitchell, a student at Perth College UHI studying HNC Computing. This app was made as part of an assessment for mobile app development\n\nThe app features Google's Firebase Authentication and Database services in order to login and register users, as well as store their passwords which are input into the app. Passwords are Encrypted using Base64 and AES256 encryption\n\nMany updates to come in the near future."</string>
+    <string name="About">"About"</string>
+
+    <string name="Start">"Get Started"</string>
+    <!-- Settings Page -->
+    <string name="Close">"Close App"</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
