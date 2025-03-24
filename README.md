@@ -1,5 +1,5 @@
 # StoreSafe
-This is an app that was made as part of: "HF4Y 34 - Developing Mobile Web Based Applications: An Introduction"
+This is an app that was made as part of: "HF4Y 34 - Developing Mobile Web Based Applications: An Introduction" and was written in January 2020
 
 This was a module which was part of my [HNC Computing](https://www.perth.uhi.ac.uk/courses/hnc-computing/) Course. 
 
