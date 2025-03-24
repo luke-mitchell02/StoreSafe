@@ -8,3 +8,5 @@ At the time of making, I had already been writing Python as a hobby for 2 - 3 ye
 Features of this app:
 - Password Generator (1 - 32 Characters, Number Only, Special Char Only, Letters Only or All)
 - Password Recording / Storing (AES256 Encryption, Google Firebase Connection)
+
+*This app was my first ever Java & Mobile app project, the UI isn't great, but it is functional, which was the goal!*
